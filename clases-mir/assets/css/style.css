@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(55, 72, 103);
+    color: cornsilk;
+}
+
+li, a {
+    color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+figcaption{
+    color: blueviolet;
+}
+
+.card {
+    width: 200px;
+}
+
+hr {
+    border-top: 10px solid;
+    color: rgb(255, 247, 22);
+}

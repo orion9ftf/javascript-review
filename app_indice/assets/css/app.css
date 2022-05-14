@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(215, 213, 213);
+}
+
+.js {
+    color: rgb(232, 232, 7);
+}
+
+.title {
+    font-size: 30px;
+    color: rgb(38, 11, 63);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.console {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.parrafo {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

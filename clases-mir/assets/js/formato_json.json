@@ -1,0 +1,15 @@
+{
+    "cadena": "cadena",
+    "un_numero": 22,
+    "boolean": "true",
+    "arreglo": [
+        "saltar",
+        "caminar",
+        "comer"
+    ],
+    "objeto": {
+        "redes": "github.com",
+        "redes2": "discord"
+    },
+    "nulo": "null"
+}
